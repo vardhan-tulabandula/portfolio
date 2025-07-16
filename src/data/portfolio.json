@@ -1,0 +1,134 @@
+{
+  "profile": {
+    "name": "Vishnu Vardhan Tulabandula",
+    "title": "AI & Data Science Enthusiast",
+    "subtitle": "Building intelligent solutions with cutting-edge technology",
+    "location": "Andhra Pradesh, India",
+    "profilePhoto": "https://res.cloudinary.com/dzqpfaqoo/image/upload/v1752683291/profile_wu1i8u.jpg",
+    "resume": "https://drive.google.com/file/d/1MJce07MEYzdClQsu7SARbaW1Jo16nXH3/view?usp=drive_link",
+    "github": "https://github.com/vardhan-tulabandula",
+    "linkedin": "https://www.linkedin.com/in/vishnu-vardhan-tulabandula-b0b47a285",
+    "email": "vishnuvardhant020605@gmail.com",
+    "bio": "Passionate AI and Data Science enthusiast with expertise in machine learning, deep learning, and full-stack development. I love creating innovative solutions that bridge the gap between complex algorithms and real-world applications."
+  },
+  "projects": [
+    {
+      "id": "ipl-prediction",
+      "title": "IPL Score Prediction",
+      "description": "Real-time cricket score prediction system using advanced machine learning models. Features live data processing and interactive visualizations.",
+      "tech": ["Python", "Scikit-learn", "XGBoost", "Flask", "Pandas", "NumPy"],
+      "image": "https://res.cloudinary.com/demo/image/upload/v1234567890/cricket-analytics.jpg",
+      "github": "https://github.com/vardhan-tulabandula/ipl-score-prediction",
+      "demo": "https://ipl-score-prediction-demo.vercel.app",
+      "featured": true
+    },
+    {
+      "id": "ai-chatbot",
+      "title": "Intelligent Chatbot",
+      "description": "NLP-powered chatbot with contextual understanding and multi-language support. Built with transformer models and deployed on cloud.",
+      "tech": ["Python", "TensorFlow", "BERT", "FastAPI", "Docker", "AWS"],
+      "image": "https://res.cloudinary.com/demo/image/upload/v1234567890/chatbot-ai.jpg",
+      "github": "https://github.com/vardhan-tulabandula/ai-chatbot",
+      "demo": "https://ai-chatbot-demo.vercel.app",
+      "featured": true
+    },
+    {
+      "id": "data-visualization",
+      "title": "Interactive Data Dashboard",
+      "description": "Comprehensive analytics dashboard with real-time data visualization, custom charts, and export functionality.",
+      "tech": ["React", "D3.js", "Node.js", "MongoDB", "Express.js", "Socket.io"],
+      "image": "https://res.cloudinary.com/demo/image/upload/v1234567890/dashboard-analytics.jpg",
+      "github": "https://github.com/vardhan-tulabandula/data-dashboard",
+      "demo": "https://data-dashboard-demo.vercel.app",
+      "featured": false
+    },
+    {
+      "id": "recommendation-system",
+      "title": "Movie Recommendation Engine",
+      "description": "Collaborative filtering recommendation system using matrix factorization and deep learning techniques.",
+      "tech": ["Python", "PyTorch", "Surprise", "Streamlit", "PostgreSQL"],
+      "image": "https://res.cloudinary.com/demo/image/upload/v1234567890/movie-recommendations.jpg",
+      "github": "https://github.com/vardhan-tulabandula/movie-recommender",
+      "demo": "https://movie-recommender-demo.streamlit.app",
+      "featured": false
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "JavaScript", "TypeScript", "Java", "SQL", "R"],
+    "frameworks": ["React", "Node.js", "Express.js", "Flask", "FastAPI", "TensorFlow", "PyTorch"],
+    "databases": ["MongoDB", "PostgreSQL", "MySQL", "Redis"],
+    "tools": ["Docker", "AWS", "Git", "Jupyter", "VS Code", "Postman"],
+    "concepts": ["Machine Learning", "Deep Learning", "Data Analysis", "REST APIs", "Microservices", "Cloud Computing"]
+  },
+  "experience": [
+    {
+      "title": "Data Science Intern",
+      "company": "Tech Solutions Inc.",
+      "period": "Jun 2023 - Aug 2023",
+      "description": "Developed ML models for customer behavior analysis, improving prediction accuracy by 25%."
+    },
+    {
+      "title": "Full Stack Developer",
+      "company": "Startup Innovation Lab",
+      "period": "Jan 2023 - May 2023",
+      "description": "Built responsive web applications using React and Node.js, serving 1000+ daily active users."
+    }
+  ],
+  "education": {
+    "degree": "Bachelor of Technology in Artificial Intelligence and Data Science",
+    "institution": "Koneru Lakshmaiah Education Foundation",
+    "year": "2022 - 2026",
+    "gpa": "9.67/10"
+  },
+  "certifications": [
+    {
+      "id": "aws-cloud-practitioner",
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "2025",
+      "description": "Foundational understanding of AWS Cloud services and architecture",
+      "certificateUrl": "https://res.cloudinary.com/dzqpfaqoo/image/upload/v1752680316/2200080015_AWS_Certified_Cloud_Practitioner_certificate-1_aaok30.png"
+    },
+    {
+      "id": "aviatrix-multicloud-network-associates",
+      "name": "Aviatrix Certified Engineer-Multicloud Network Associates",
+      "issuer": "Aviatrix",
+      "date": "2025",
+      "description": "Certified in designing and troubleshooting secure multi-cloud network architectures using Aviatrix on AWS, Azure, and GCP",
+      "certificateUrl": "https://res.cloudinary.com/dzqpfaqoo/image/upload/v1752680316/2200080015_MULTICLOUD-1_i9md4p.png"
+    },
+    {
+      "id": "automation-anywhere-certified-rpa-professional",
+      "name": "Automation Anywhere Certified RPA Professional",
+      "issuer": "Automation Anywhere",
+      "date": "2025",
+      "description": "Certified in building and deploying automation bots using Automation Anywhere’s RPA platform",
+      "certificateUrl": "https://res.cloudinary.com/dzqpfaqoo/image/upload/v1752680317/2200080015_AUTONOMATION_ANYWERE-1_jop1dv.png"
+    },
+    {
+      "id": "oracle-cloud-infrastructure-2024-generative-ai-certified-professional",
+      "name": "Oracle Cloud Infrastructure 2024 Generative AI Certified Professional",
+      "issuer": "Oracle",
+      "date": "2024",
+      "description": "Certified in building, deploying, and managing generative AI solutions on Oracle Cloud using OCI GenAI services, foundation models, and secure data workflows",
+      "certificateUrl": "https://res.cloudinary.com/dzqpfaqoo/image/upload/v1752680317/2200080015_ORACLE_GEN_AI-1_zukdfu.png"
+    },
+    {
+      "id": "salesforce-ai-associate",
+      "name": "Salesforce AI Associate",
+      "issuer": "Salesforce",
+      "date": "2024",
+      "description": "Certified in applying Salesforce Einstein AI features for data-driven CRM and responsible AI use",
+      "certificateUrl": "https://res.cloudinary.com/dzqpfaqoo/image/upload/v1752680317/2200080015_Salesforce_-1_vt3qfu.png"
+    },
+    
+    {
+      "id": "tensorflow-developer",
+      "name": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "date": "2024",
+      "description": "Machine learning model development using TensorFlow framework",
+      "certificateUrl": "https://res.cloudinary.com/dzqpfaqoo/image/upload/v1752680317/2200080015_TENSORFLOW-1_wgjjke.png"
+    }
+  ]
+}
