@@ -32,16 +32,7 @@
       "demo": "https://ai-chatbot-demo.vercel.app",
       "featured": true
     },
-    {
-      "id": "data-visualization",
-      "title": "Interactive Data Dashboard",
-      "description": "Comprehensive analytics dashboard with real-time data visualization, custom charts, and export functionality.",
-      "tech": ["React", "D3.js", "Node.js", "MongoDB", "Express.js", "Socket.io"],
-      "image": "https://res.cloudinary.com/demo/image/upload/v1234567890/dashboard-analytics.jpg",
-      "github": "https://github.com/vardhan-tulabandula/data-dashboard",
-      "demo": "https://data-dashboard-demo.vercel.app",
-      "featured": false
-    },
+
     {
       "id": "recommendation-system",
       "title": "Movie Recommendation Engine",
